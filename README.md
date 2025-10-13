@@ -1,15 +1,20 @@
 # 👋 Hey, I'm Enes — DevOps tactician in training
-============================
+
 
 Currently executing a 13+5 week DevOps roadmap, building modular backend projects with Node.js, deploying to AWS, automating with GitHub Actions, and scaling with Docker, Terraform, and Kubernetes.
 
-*   ✉️  You can contact me at [hudutienes95@gmail.com](mailto:hudutienes95@gmail.com)
 ## 📘 Learning Now
 - Node.js + Express
 - AWS EC2 + S3
 - GitHub Actions CI/CD
 - Terraform Infrastructure
 - Kubernetes Deployment
+
+## 🔧 Projects
+
+- [notes-app-backend](https://github.com/HudutiEnes/Notes-App-Backend) – Modular CRUD API with MongoDB
+- [devops-roadmap-week1](https://github.com/HudutiEnes/devops-roadmap-week1) – Raw daily execution archive
+- More coming soon: Auth API, AWS Deployment, CI/CD, Terraform, Kubernetes...
 
 ### 🧠 Skills
 
@@ -49,11 +54,13 @@ Currently executing a 13+5 week DevOps roadmap, building modular backend project
   </a>
 </p>
 
-                    
+## 📫 Contact
 
-### Socials
-                  
-<p align="left"> <a href="https://www.github.com/HudutiEnes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/eneshuduti" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/enes-huduti-871a44162/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+- Email: [hudutienes95@gmail.com](mailto:hudutienes95@gmail.com)
+- LinkedIn: [linkedin.com/in/enes-huduti](https://linkedin.com/in/enes-huduti)
+- GitHub: [github.com/enes](https://github.com/HudutiEnes)
+- Notion Dashboard: [View Roadmap](https://www.notion.so/DevOps-Roadmap-Oct-2025-to-Feb-2026-286fbbac26cd8058a741c404e40a867f?source=copy_link)
+                    
 
 ### Badges
 
