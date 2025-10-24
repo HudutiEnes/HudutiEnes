@@ -73,7 +73,7 @@ Currently executing a 15 week DevOps roadmap, building modular backend projects 
 - Containerized with Docker & Docker Compose
 - Ready for CI/CD pipeline implementation
 
-### [Notes App Backend](https://github.com/HudutiEnes/Notes-App-Backend) 
+### [Notes App Backend](https://github.com/HudutiEnes/notes-app-v2) 
 **Node.js | Express | MongoDB | Modular Architecture**
 - Modular CRUD API with organized code structure
 - Database integration with MongoDB & Mongoose
