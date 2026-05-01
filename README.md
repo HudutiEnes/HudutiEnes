@@ -1,104 +1,54 @@
-# 👋 Hey, I'm Enes — DevOps tactician in training
+# 👋 Hey, I'm Enes — DevOps Engineer
 
-**Building cloud-native applications & automating infrastructure**
+**Specializing in Infrastructure Automation & "Project-First" Engineering**
 
-Currently executing a 15 week DevOps roadmap, building modular backend projects with Node.js, deploying to AWS, automating with GitHub Actions, and scaling with Docker, Terraform, and Kubernetes.
+Currently on a dedicated 15-week specialization phase (Gap Year) to master the full DevOps lifecycle. I don't just learn tools; I build working systems. My philosophy: **Learn for 1 hour, apply to the project the same day.**
 
-### 🛠️ DevOps & Cloud
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
-</a>
-<a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/terraform-colored.svg" width="36" height="36" alt="Terraform" />
-</a>
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="36" height="36" alt="Kubernetes" />
-</a>
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/amazonaws-colored.svg" width="36" height="36" alt="AWS" />
-</a>
-<a href="https://docs.github.com/en/actions" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/githubactions-colored.svg" width="36" height="36" alt="GitHub Actions" />
-</a>
+### 🛠️ The Tech Stack
+**Infrastructure & Cloud:**
+<a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+<a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/amazonaws-colored.svg" width="36" height="36" alt="AWS" /></a>
+<a href="https://www.terraform.io/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/terraform-colored.svg" width="36" height="36" alt="Terraform" /></a>
+<a href="https://github.com/features/actions"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/githubactions-colored.svg" width="36" height="36" alt="GitHub Actions" /></a>
 
-### 💻 Backend Development
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-</a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" />
-</a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" />
-</a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
-</a>
-<!-- Add REST API badge if you find one, or describe in text -->
+**Automation & Development:**
+<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" /></a>
+<a href="https://neovim.io/"><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" height="36" alt="NVim" /></a>
+<a href="https://getfedora.org/"><img src="https://img.shields.io/badge/Fedora-%2351A2DA.svg?style=for-the-badge&logo=fedora&logoColor=white" height="36" alt="Fedora" /></a>
 
-### 🔧 DevOps Fundamentals
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bash-colored.svg" width="36" height="36" alt="Bash" />
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-</a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
-</a>
+---
 
-### 📚 Programming & Fundamentals
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-</a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-</a>
+## 🚀 Active Engineering Focus
 
-## 📘 Learning Now
-- Node.js + Express
-- AWS EC2 + S3
-- GitHub Actions CI/CD
-- Terraform Infrastructure
-- Kubernetes Deployment
+### [Task Manager API (Main Ecosystem)]([(https://github.com/HudutiEnes/task-manager-api)])
+This is my primary "Living Project" where I implement my DevOps roadmap.
+*   **Backend:** Node.js/Express REST API with MongoDB.
+*   **Automation:** Python-based **Log Rotator** and **Environment Sanity Checkers**.
+*   **Containerization:** Fully Dockerized development and production environments.
+*   **Environment:** Engineered strictly in **Fedora Linux** using **NVim**.
 
-## 🚀 Featured Projects
+---
 
-### [Task Manager API](https://github.com/HudutiEnes/Notes-App-Backend) 
-**Node.js | Express | MongoDB | Docker**
-- RESTful API with full CRUD operations
-- Containerized with Docker & Docker Compose
-- Ready for CI/CD pipeline implementation
+## 📘 15-Week Specialization Roadmap (Current Phase)
+*   ✅ **Phase 1: Linux & Bash** — Mastering the Fedora CLI and shell automation.
+*   🚀 **Phase 2: Python for DevOps** — Building automation scripts (Log Management, Health Checks).
+*   📅 **Phase 3: Networking & Cloud** — Deploying to AWS/Oracle Cloud and defining IaC with Terraform.
 
-### [Notes App Backend](https://github.com/HudutiEnes/notes-app-v2) 
-**Node.js | Express | MongoDB | Modular Architecture**
-- Modular CRUD API with organized code structure
-- Database integration with MongoDB & Mongoose
-- RESTful endpoints with proper error handling
-- **Learning Focus**: Solid backend foundations for DevOps
+---
 
-### [DevOps Learning Journey](https://github.com/HudutiEnes/devops-roadmap-week1)
-**Daily Progress | Code Archives | Learning Notes**
-- 15-week intensive DevOps roadmap execution
-- Raw code evolution and skill development
+## 💼 Availability
+*   **Role:** Junior DevOps Engineer | SRE | Cloud Automation.
+*   **Location:** Remote (Based in Kosovo, CEST Timezone).
+*   **Earliest Start:** Immediate.
 
-## 💼 Open to Opportunities
-**Seeking**: Junior DevOps Engineer | Cloud Engineer | SRE Roles
-**Availability**: [Your availability - "Immediately" or "Q1 2024"]
+## 📫 Connect with Me
+- **Email:** [hudutienes95@gmail.com](mailto:hudutienes95@gmail.com)
+- **LinkedIn:** [linkedin.com/in/enes-huduti](https://linkedin.com/in/enes-huduti)
+- **Notion Dashboard:** [View My Roadmap Progress](https://www.notion.so/DevOps-Roadmap-Oct-2025-to-Feb-2026-286fbbac26cd8058a741c404e40a867f?source=copy_link)
 
-## 📫 Contact
+---
 
-- Email: [hudutienes95@gmail.com](mailto:hudutienes95@gmail.com)
-- LinkedIn: [linkedin.com/in/enes-huduti](https://linkedin.com/in/enes-huduti)
-- GitHub: [github.com/enes](https://github.com/HudutiEnes)
-- Notion Dashboard: [View Roadmap](https://www.notion.so/DevOps-Roadmap-Oct-2025-to-Feb-2026-286fbbac26cd8058a741c404e40a867f?source=copy_link)
-                    
-
-### Badges
-
-<b>My GitHub Stats</b>
-
+### 📊 Performance
 <a href="http://www.github.com/HudutiEnes"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HudutiEnes&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
