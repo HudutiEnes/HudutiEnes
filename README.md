@@ -45,8 +45,8 @@ This is my primary "Living Project" where I implement my DevOps roadmap.
 
 ## 📫 Connect with Me
 - **Email:** [hudutienes95@gmail.com](mailto:hudutienes95@gmail.com)
-- **LinkedIn:** [linkedin.com/in/enes-huduti](https://linkedin.com/in/enes-huduti)
-- **Notion Dashboard:** [View My Roadmap Progress](https://www.notion.so/DevOps-Roadmap-Oct-2025-to-Feb-2026-286fbbac26cd8058a741c404e40a867f?source=copy_link)
+- **LinkedIn:** [linkedin.com/in/enes-huduti](https://www.linkedin.com/in/enes-huduti-871a44162/)
+- **Notion Dashboard:** [View My Roadmap Progress](https://www.notion.so/15-Week-DevOps-Roadmap-295fbbac26cd80249c2bc465500b0427?source=copy_link)
 
 ---
 
