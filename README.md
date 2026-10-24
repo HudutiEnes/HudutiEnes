@@ -1,54 +1,76 @@
-# 👋 Hey, I'm Enes — DevOps Engineer
+<!-- Put this file in a repo named exactly like your username: HudutiEnes/HudutiEnes -->
 
-**Specializing in Infrastructure Automation & "Project-First" Engineering**
+<h1 align="center">Hi, I'm Enes 👋</h1>
 
-Currently on a dedicated 15-week specialization phase (Gap Year) to master the full DevOps lifecycle. I don't just learn tools; I build working systems. My philosophy: **Learn for 1 hour, apply to the project the same day.**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=600&lines=DevOps+%26+Cloud+Engineering+Intern+candidate;CS+student+%7C+Linux+%7C+Docker+%7C+CI%2FCD;Open+to+Skopje+%2F+Prishtina+%2F+Remote+(Europe)" alt="Typing SVG" />
+</p>
 
-### 🛠️ The Tech Stack
-**Infrastructure & Cloud:**
-<a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-<a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/amazonaws-colored.svg" width="36" height="36" alt="AWS" /></a>
-<a href="https://www.terraform.io/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/terraform-colored.svg" width="36" height="36" alt="Terraform" /></a>
-<a href="https://github.com/features/actions"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/githubactions-colored.svg" width="36" height="36" alt="GitHub Actions" /></a>
-
-**Automation & Development:**
-<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" /></a>
-<a href="https://neovim.io/"><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" height="36" alt="NVim" /></a>
-<a href="https://getfedora.org/"><img src="https://img.shields.io/badge/Fedora-%2351A2DA.svg?style=for-the-badge&logo=fedora&logoColor=white" height="36" alt="Fedora" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20internships-9ece6a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-DevOps%20%26%20Cloud-7aa2f7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Tetovo%2C%20North%20Macedonia-bb9af7?style=for-the-badge" />
+</p>
 
 ---
 
-## 🚀 Active Engineering Focus
+## 👨‍💻 About
 
-### [Task Manager API (Main Ecosystem)]([(https://github.com/HudutiEnes/task-manager-api)])
-This is my primary "Living Project" where I implement my DevOps roadmap.
-*   **Backend:** Node.js/Express REST API with MongoDB.
-*   **Automation:** Python-based **Log Rotator** and **Environment Sanity Checkers**.
-*   **Containerization:** Fully Dockerized development and production environments.
-*   **Environment:** Engineered strictly in **Fedora Linux** using **NVim**.
+Final-year Computer Science student heading into **DevOps and cloud engineering**.
+I learn by building: containerized services, CI pipelines, and Bash tooling for Linux systems.
+Looking for a **winter internship** (on-site Skopje/Tetovo, hybrid Skopje/Prishtina, or remote in Europe).
 
----
-
-## 📘 15-Week Specialization Roadmap (Current Phase)
-*   ✅ **Phase 1: Linux & Bash** — Mastering the Fedora CLI and shell automation.
-*   🚀 **Phase 2: Python for DevOps** — Building automation scripts (Log Management, Health Checks).
-*   📅 **Phase 3: Networking & Cloud** — Deploying to AWS/Oracle Cloud and defining IaC with Terraform.
+- 🎓 Computer Science, final year, Tetovo
+- 🔭 Currently working through a self-directed DevOps roadmap: Terraform, AWS, Kubernetes
+- 🗣️ Albanian (C1) · Serbo-Croatian (B2–C1) · English (B2)
+- 📫 Reach me: see contact section below
 
 ---
 
-## 💼 Availability
-*   **Role:** Junior DevOps Engineer | SRE | Cloud Automation.
-*   **Location:** Remote (Based in Kosovo, CEST Timezone).
-*   **Earliest Start:** Immediate.
+## 🛠️ Tech Stack
 
-## 📫 Connect with Me
-- **Email:** [hudutienes95@gmail.com](mailto:hudutienes95@gmail.com)
-- **LinkedIn:** [linkedin.com/in/enes-huduti](https://www.linkedin.com/in/enes-huduti-871a44162/)
-- **Notion Dashboard:** [View My Roadmap Progress](https://www.notion.so/15-Week-DevOps-Roadmap-295fbbac26cd80249c2bc465500b0427?source=copy_link)
+**Working with**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker,githubactions,git,nodejs,express,py,cs,cpp,php,mysql,neovim&theme=dark" />
+</p>
+
+**Learning / exposure**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=terraform,aws,kubernetes,prometheus,grafana&theme=dark" />
+</p>
 
 ---
 
-### 📊 Performance
-<a href="http://www.github.com/HudutiEnes"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HudutiEnes&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## 🚀 Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[Task Manager API](https://github.com/HudutiEnes/task-manager-api)** | REST API with a containerized setup and an automated CI pipeline | Node.js, Express, Docker Compose, GitHub Actions |
+| **[Guard.sh](https://github.com/HudutiEnes/guard.sh)** | Linux system auditor that inspects open ports and network connections | Bash, `ss`, `nmcli` |
+| **[Internship Job Bot](https://github.com/HudutiEnes/job-bot)** | Polls ATS APIs and job boards on a schedule, filters by role and location, pushes matches to Telegram | Python, GitHub Actions, Telegram API |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HudutiEnes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HudutiEnes&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HudutiEnes&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📬 Contact
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center"><sub>Always building. Always learning. ⚙️</sub></p>
