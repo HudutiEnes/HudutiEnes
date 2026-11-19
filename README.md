@@ -48,7 +48,7 @@ Looking for a **winter internship** (on-site Skopje/Tetovo, hybrid Skopje/Prisht
 | Project | What it does | Stack |
 |---|---|---|
 | **[Task Manager API](https://github.com/HudutiEnes/task-manager-api)** | REST API with a containerized setup and an automated CI pipeline | Node.js, Express, Docker Compose, GitHub Actions |
-| **[Guard.sh](https://github.com/HudutiEnes/guard.sh)** | Linux system auditor that inspects open ports and network connections | Bash, `ss`, `nmcli` |
+| **[Guard.sh](https://github.com/HudutiEnes/linux-system-auditor)** | Linux system auditor that inspects open ports and network connections | Bash, `ss`, `nmcli` |
 | **[Internship Job Bot](https://github.com/HudutiEnes/job-bot)** | Polls ATS APIs and job boards on a schedule, filters by role and location, pushes matches to Telegram | Python, GitHub Actions, Telegram API |
 
 ---
@@ -69,7 +69,7 @@ Looking for a **winter internship** (on-site Skopje/Tetovo, hybrid Skopje/Prisht
 ## 📬 Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/enes-huduti-871a44162/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hudutienes/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:hudutienes2003@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
